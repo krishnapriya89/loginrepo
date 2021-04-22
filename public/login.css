@@ -1,0 +1,45 @@
+tr{
+    text-align: center;
+}
+table{
+    
+ background-color: lightgray;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-top: 30px;
+letter-spacing: 5px;
+
+
+opacity: 0.9;
+
+margin-right: 500px;
+}
+.head1{
+  text-align: center;
+  letter-spacing: 10px;
+  color: aliceblue;
+  
+
+}
+button:hover{
+  height: 30px;
+  width: 150px;
+   background-image: linear-gradient(black,white); 
+ 
+  opacity: 1;
+  
+ 
+}
+button{
+  background-color: inherit;
+}
+.img1{
+  height: 100px;
+  width: 100px;
+  margin-left: 650px;
+}
+.lb{
+  letter-spacing: normal;
+}
