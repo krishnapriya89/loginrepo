@@ -30,7 +30,7 @@
             <tr><td><input type="password" placeholder="password"> </td></tr>
             
             
-            <tr><td> <button >sign in</button><br><br><label for="" class="lb">forgot password?</label></td></tr>
+            <tr><td> <button  class="btn btn-success" >sign in</button><br><br><label for="" class="lb">forgot password?</label></td></tr>
            <tr><td><button>reset password</button></td></tr>
           
         </table>
