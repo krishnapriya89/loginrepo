@@ -23,7 +23,7 @@ margin-right: 500px;
   
 
 }
-button:hover{
+ /* button:hover{
   height: 30px;
   width: 150px;
    background-image: linear-gradient(black,white); 
@@ -31,14 +31,15 @@ button:hover{
   opacity: 1;
   
  
-}
-button{
+} */
+ .btn1{
   background-color: inherit;
-}
+} 
 .img1{
-  height: 100px;
-  width: 100px;
-  margin-left: 650px;
+  height: 50px;
+  width: 50px;
+  margin-left: 10px;
+  
 }
 .lb{
   letter-spacing: normal;
