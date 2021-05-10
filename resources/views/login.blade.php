@@ -56,9 +56,7 @@
     <!-- <hr width="50%" color="black">  -->
     <form action="" method="GET"  >
         <table  align="center"  cellspacing="10" cellpadding="10" >
-        <thead class="thead-light">
-        
-            <tr><td >LOGIN HERE</td></tr>
+                    <tr><td >LOGIN HERE</td></tr>
             <br>
 
             <!-- <tr><td > username</td></tr> -->

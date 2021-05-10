@@ -36,11 +36,37 @@ margin-right: 500px;
   background-color: inherit;
 } 
 .img1{
-  height: 50px;
-  width: 50px;
+  height: 60px;
+  width: 60px;
   margin-left: 10px;
   
+  
+}
+.img2{
+  height: 100px;
+  width: 200px;
+  margin-left: 50%;
+  margin-top: 2px;
 }
 .lb{
   letter-spacing: normal;
+}
+.col-lg-4{
+  background-color: bisque;
+  height: 100px;
+}
+.col-lg-2{
+  background-color:blue;
+  height: 100px;
+}
+.col-lg-6{
+  background-color: brown;
+  height: 100px;
+}
+label{
+  color: white;
+  margin-top: 1px;
+}
+form{
+  padding: 10px;
 }

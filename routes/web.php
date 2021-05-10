@@ -17,3 +17,9 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::view('beta','login');
+Route::view('home','tablegrid');
+Route::view('fblog','fblogin');
+Route::view('alpha','studentreg');
+Route::view('penta','studetails');
+Route::view('hexa','staffreg');
+Route::view('tetra','admin');
